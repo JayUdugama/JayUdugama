@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Jayani Hansani</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka🧡💛💙💚</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayudugama&label=Profile%20views&color=0e75b6&style=flat" alt="jayudugama" /> </p>
 
