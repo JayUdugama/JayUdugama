@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently studying **ReactJS**
 
+- 💥 I’m confident in **Java**
+
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **hansani.jay33@gmail.com**
@@ -17,11 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@jayani-hansani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jayani-hansani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayani hansani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayani hansani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jayani hansani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jayani hansani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jayanihansani96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jayanihansani96" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jayanihansani96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayanihansani96" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayani-hansani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayani hansani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/hansani_jay33"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jayanihansani96" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/EE6BVADEIW"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayanihansani96" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
